@@ -19,7 +19,7 @@
       pitch_offset: 0
       yaw_offset: 0
       zero_altitude: false
-      broadcast_utm_transform: false
+      broadcast_utm_transform: true
     </rosparam>
   </node>
 </launch>
